@@ -1,5 +1,3 @@
-# Core Streamlit app
-streamlit
 
 # Data manipulation & visualisation
 pandas>=2.2.3
